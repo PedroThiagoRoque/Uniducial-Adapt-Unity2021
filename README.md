@@ -2,6 +2,7 @@
  Adaptação do projeto Uniducial  de André Gröschel (2012) (c), para versões atuais de Unity (2021)
 
 UNIDUCIAL - Interface entre o ReacTIVision 1.5.1, utilizando protocolo TUIO v1.1 e Unity v2021 / C#
+Facilitando o desenvolvimento de jogos com interatividade através de interfaces tangíveis, utilizando ReacTIVision.
 
 - ReacTIVision é um framework open source para reconhecimento de fiduciais. (https://reactivision.sourceforge.net/)
 - TUIO é um framework aberto que define um protocolo para comunicação e API para superfícies tangíveis multitoque. (http://www.tuio.org/)
