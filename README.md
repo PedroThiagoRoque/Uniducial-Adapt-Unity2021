@@ -8,7 +8,7 @@ Facilitando o desenvolvimento de jogos com interatividade através de interfaces
 - TUIO é um framework aberto que define um protocolo para comunicação e API para superfícies tangíveis multitoque. (http://www.tuio.org/)
 - Unity é um motor de jogos proprietário, popular em desenvolvimento de jogos indie. (https://unity.com/pt)
 
-O projeto original de Uniducial teve sua última atualização em 2012, e devido as alterações na API unity, tornou-se incompatível com as versões atuais (2021/22).
+O projeto original de Uniducial (https://code.google.com/archive/p/uniducial/) teve sua última atualização em 2012, e devido as alterações na API unity, tornou-se incompatível com as versões atuais (2021/22).
 
 Para utilizar a interação entre fiduciais e objetos na cena, basta atribuir o script FiducialController.cs ao objeto desejado e executar o ReacTIVsion.
 Não esqueça de checar as bibliotecas necessárias para executar o ReacTIVsion na sua máquina.
